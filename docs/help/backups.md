@@ -43,9 +43,8 @@ By default, it will save to `packInstall/simplebackups` with a zip file with you
 1. **Close** completely out of the modpack. 
 2. **Right-click** on the ATM icon in your CurseForge modpack screen and click `Open Folder`
 ![](img/backupsCF1.png)
----
-3. **Open** `simplebackups`
 
+3. **Open** `simplebackups`
 ![](img/backupsCF2.png)
 
 4. **Open** the zip file that you want to restore. (They're labeled by the date created; the latest one is recommended.)
