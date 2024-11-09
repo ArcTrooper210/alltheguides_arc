@@ -24,6 +24,12 @@ This will be a Step-by-Step of the Controller I use in my builds, giving you a g
 
 I highly recommend viewing the images in **Gallery Mode** to better see what changed between each step. Click on the first image and use the **Arrows** at the **Edge** of the screen
 
+## Video Guide
+
+If you prefer a video guide, check out this awsome tutorial by **[KSAW](https://www.youtube.com/@KSAW00)**
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/c_XG-N3TYJc?si=XERDqhCo0xiBhZqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Base
 
 You need around at least a **13x13** area to build this controller
