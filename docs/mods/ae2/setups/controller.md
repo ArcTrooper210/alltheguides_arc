@@ -28,7 +28,7 @@ I highly recommend viewing the images in **Gallery Mode** to better see what cha
 
 If you prefer a video guide, check out this awsome tutorial by **[KSAW](https://www.youtube.com/@KSAW00)**
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/c_XG-N3TYJc?si=XERDqhCo0xiBhZqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![type:video](https://www.youtube.com/embed/c_XG-N3TYJc?si=XERDqhCo0xiBhZqs)
 
 ## Base
 
