@@ -10,6 +10,11 @@ description: ATM9TTS Frequently Asked Questions
 ---
 
 ???+ Abstract "Gameplay FAQs"
+	??? Question "There's a ghost/easter egg that appears every few minutes!"
+		The ghost is from Corail Tombstone, you can disable by doing `/tbgui` locate the ghost toggle under effect. This toggle will only show if your GUI scale is set to 4.
+
+		If you want to prevent the ghost/easter eggs and all other Corail holiday events **permanently**, you can download [BadCorailNoHolidays](https://legacy.curseforge.com/minecraft/mc-mods/badcorailnoholidays), if you want keep some events enabled, it does have a config at `atmInstall/configs/badcorailnoholidays-common.toml`.
+
 	??? Question "How do I get pebbles? Right clicking dirt doesn't do anything!"
 		You need to shift-right click dirt to get pebbles.
 
@@ -17,7 +22,7 @@ description: ATM9TTS Frequently Asked Questions
 		- You can put any organic matter (leaves, seeds, saplings, etc.) in the same barrels you use to get witch water.
 		- or Hammer some logs and put the chips in the barrel
 
-	??? Question "Is '`item/block name`' EMC-able?"
+	??? Question "Is '`item/block`' EMC-able?"
 		Do `EMC: ` in JEI and it'll list all items that have an EMC value.
 		
 	??? Question "I'm not getting any silkworms!"
