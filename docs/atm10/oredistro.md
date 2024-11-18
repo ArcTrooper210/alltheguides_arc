@@ -45,28 +45,28 @@ authors:
 | Iridium Ore | 146 | 65 |
 | Iron Ore | 247 | 65 |
 | Lapis Lazuli Ore | 146 | 65 |
-| Lead Ore | 34 | 62 |
+| Lead Ore | 34 | -62 |
 | Lignite Coal Ore | 250 | 65 |
 | Mithril Ore | 250 | 65 |
 | Monazite Ore | 154 | 65 |
 | Nether Gold | 64 | 1 |
-| Nickle Ore | 64 | 62 |
-| Osmium Ore | 64 | 62 |
+| Nickle Ore | 64 | -62 |
+| Osmium Ore | 64 | -62 |
 | Peridot Ore | 179 | 65 |
-| Platinum Ore | 34 | 62 |
+| Platinum Ore | 34 | -62 |
 | Prosperity Ore | 250 | 65 |
 | Quartz Ore | 64 | 1 |
 | Redstone Ore | 205 | 65 |
 | Ruby Ore | 179 | 65 |
 | Runic Stone | 250 | 65 |
 | Sapphire Ore | 179 | 65 |
-| Silver Ore | 34 | 62 |
-| Tin Ore | 181 | 62 |
+| Silver Ore | 34 | -62 |
+| Tin Ore | 181 | -62 |
 | Tungsten Ore | 154 | 65 |
-| Uraninite Ore | 250 | 5 |
-| Uranium Ore | 157 | 62 |
+| Uraninite Ore | 250 | 65 |
+| Uranium Ore | 157 | -62 |
 | Xychorium Colored Ore | 250 | 65 |
-| Zinc Ore | 128 | 62 |
+| Zinc Ore | 128 | -62 |
 
 ---
 
