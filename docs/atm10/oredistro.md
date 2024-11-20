@@ -17,6 +17,7 @@ authors:
 
 | Stone Type | Max Y-Level | Min Y-Level |
 | ---------- | ----------- | ----------- |
+| Grass Block | 252 | 252 |
 | Dirt | 251 | 248 |
 | Stone | 247 | 129 |
 | Deepslate | 128 | 65 |
