@@ -13,12 +13,11 @@ description: Current Team Members!
 
 ---
 
-#### Admins 
+#### All The Devs
 
 - `oly2o6` (**Second In Command**) 
 - `Mitchell52`
 - `MutantGumdrop`
-- `Maddy`
 - `thevortex`
 - `Ki-Tan`
 
@@ -27,13 +26,17 @@ description: Current Team Members!
 #### Modpack Development Team
 
 - `Arochio`
-- `Billy`
+- `Bathsalts`
 - `DJNifos`
 - `Drack.ion`
 - `Draxial`
 - `Jebraltar`
 - `LobsterJonn`
+- `Nyxane`
+- `pr0saic`
 - `radiomike12`
+- `Satherov`
+- `Toblerone0508`
 - `ToshibaMicrowave`
 - `ZephyrWindSpirit 🐉`
 
@@ -41,11 +44,11 @@ description: Current Team Members!
 
 #### All The Team
 
-- `1Yumi`
 - `Bored`
+- `Jonh09`
 - `Klonoa`
+- `RadzRatz`
 - `SlackerNet>XI<`
-- `Timeconsumer`
 - `Ultramega`
 
 ---
@@ -55,15 +58,19 @@ description: Current Team Members!
 - `0mega420`
 - `AlfredGG` | **(Former QuestDev)**
 - `BeeJnugggets`
+- `Billy`
 - `Dijkstra`
 - `EnigmaQuip`
 - `KJM`
+- `KyBeeS`
+- `Maddy`
 - `Phantom`
 - `screret`
 - `Seg`
 - `Thunder_Nova the Pun_isher`
 - `uʍopǝpᴉsdn`
+- `wva`
 
 ---
 
-> Current as of (07/26/2024)
+> Current as of (11/07/2024)
