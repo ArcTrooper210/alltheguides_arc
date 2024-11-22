@@ -13,9 +13,9 @@ description: Current Team Members!
 
 ---
 
-#### All The Devs
+#### Admins
 
-- `oly2o6` (**Second In Command**) 
+- `oly2o6` (**Second In Command**)
 - `Mitchell52`
 - `MutantGumdrop`
 - `thevortex`
@@ -29,7 +29,6 @@ description: Current Team Members!
 - `Bathsalts`
 - `DJNifos`
 - `Drack.ion`
-- `Draxial`
 - `Jebraltar`
 - `LobsterJonn`
 - `Nyxane`
@@ -38,16 +37,19 @@ description: Current Team Members!
 - `Satherov`
 - `Toblerone0508`
 - `ToshibaMicrowave`
+- `Uncandango`
 - `ZephyrWindSpirit 🐉`
 
 ---
 
 #### All The Team
 
+- `Alekthefirst`
 - `Bored`
 - `Jonh09`
 - `Klonoa`
 - `RadzRatz`
+- `Shiny`
 - `SlackerNet>XI<`
 - `Ultramega`
 
@@ -60,6 +62,7 @@ description: Current Team Members!
 - `BeeJnugggets`
 - `Billy`
 - `Dijkstra`
+- `Draxial`
 - `EnigmaQuip`
 - `KJM`
 - `KyBeeS`
@@ -69,8 +72,9 @@ description: Current Team Members!
 - `Seg`
 - `Thunder_Nova the Pun_isher`
 - `uʍopǝpᴉsdn`
+- `Yumi`
 - `wva`
 
 ---
 
-> Current as of (11/07/2024)
+> Current as of (11/20/2024)
