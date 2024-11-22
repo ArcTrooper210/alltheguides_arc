@@ -5,6 +5,8 @@ description: Current Team Members!
 
 # All The Team
 
+<!--- ALL TEAM LIST CHANGED MUST BE PROOFREAD BY AN ADMIN --->
+
 ---
 
 #### Owner
