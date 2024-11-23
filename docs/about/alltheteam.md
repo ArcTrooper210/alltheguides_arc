@@ -5,7 +5,7 @@ description: Current Team Members!
 
 # All The Team
 
-<!--- ALL TEAM LIST CHANGED MUST BE PROOFREAD BY AN ADMIN --->
+<!--- ALL TEAM LIST CHANGES MUST BE PROOFREAD BY AN ADMIN --->
 
 ---
 
