@@ -11,11 +11,11 @@ authors:
 [Vidal's Original Spreadsheet.](https://docs.google.com/spreadsheets/d/1WA9Ek1k17u6YA9JJBSayUL1x_D8OMp134oQeVXBftDU/edit?gid=0#gid=0)
 
 ???+ warning "Max/Min Y-Level Sort Broken"
-The sorting for the y-levels is broken for numbers currently. Alphabetical sorting is the only one that works right now. I will fix sorting by numbers in the future.
+    The sorting for the y-levels is broken for numbers currently. Alphabetical sorting is the only one that works right now. I will fix sorting by numbers in the future.
 
 ## Ore Distribution Visualization
 
-![Mining Dimension Ore Distribution](./img/atm10_mining_dim_ore_distribution.jpeg)
+![Mining Dimension Ore Distribution](img/atm10_mining_dim_ore_distribution.jpeg)
 _Ore distribution visualization courtesy of [@BookerTheGeek](https://www.reddit.com/user/BookerTheGeek/)_
 _Source: [Reddit Post](https://www.reddit.com/r/allthemods/comments/1h2affo/atm10_mining_dim_ore_generation/#lightbox)_
 
