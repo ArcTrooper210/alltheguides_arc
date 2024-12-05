@@ -362,20 +362,17 @@ Translators who have contributed translations to ATM packs/mods.
 
 | Language | Translators |
 | -------- | ----------- |
-| **:flag_ae: Arabic** | amro |
-| **:flag_nl: Dutch** | Riley |
-| **:flag_ph: Filipino (Philippines)** | CptZ |
-| **:flag_fr: French** | Luny, Galahad |
-| **:flag_de: German** | ffup , Torben, Riaru, Satherov (AE2 Supremacy) |
-| **:flag_it: Italian** | elfo |
-| **:flag_jp: Japanese** | ll1 (flll) |
-| **:flag_kr: Korean** | JJYong |
-| **:flag_no: Norwegian (Bokmål)** | Permest, A group of amish goat milkers |
-| **:flag_pl: Polish** | Observer, Miko_boi, lena |
-| **:flag_pt: Portugese** | oRuiva |
-| **:flag_ro: Romanian** | KGR |
-| **:flag_ru: Russian** | Slava_vas, Depozit, Gordry(Миша) |
-| **:flag_es: Spanish** | RadzRatz, TenCross, Arivio, Daboruu, Metabodiru |
-*Last updated 7/31/24*
+| **:flag_cn: Chinese**		| ZHAY10086, hbcraft, Amoerrt |
+| **:flag_nl: Dutch**		| Acetyld |
+| **:flag_de: German**		| Aquamatik, TheDyreBanana, Acetyld |
+| **:flag_it: Italian**		| Il-mostro-di-gioacchinopoli |
+| **:flag_jp: Japanese**	| flll, Abbage230 |
+| **:flag_kr: Korean**		| J-YonKen, sub-hub |
+| **:flag_no: Norwegian**	| Permest |
+| **:flag_pt: Portugese**	| oRuiva, Thomas, Alucard1313 |
+| **:flag_ru: Russian**		| SlavaVas |
+| **:flag_es: Spanish**		| RadzRatz, 102389 (TenCross), t3mpt0n |
+| **:flag_tr: Turkish**		| RuyaSavascisi |
+*Last updated 12/05/24*
 
 > All The Mods | [GitHub](https://github.com/AllTheMods) | [Discord](https://discord.com/invite/allthemods)
