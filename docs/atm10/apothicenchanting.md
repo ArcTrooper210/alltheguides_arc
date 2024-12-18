@@ -104,7 +104,7 @@ Same setup as [Tome of Superior Scrapping](#tome-of-superior-scrapping)
 
 ### Library of Alexandria
 
-!!! info "7x Echoing Deepshelf, 3x Draconic Endshelf, 2x Soul-Touched Deepshelf"
+!!! info "3x Echoing Deepshelf, 2x Draconic Endshelf, 1x Heart-Forged Seashelf, 4x Deepshelf"
 
 ![](img/apoth10_library.png){.center}
 
