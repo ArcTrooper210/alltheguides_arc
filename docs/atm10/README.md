@@ -18,6 +18,8 @@ In **All the Mods 10** we will continue the tradition adding many new mods while
 
 Does "**All the Mods**" really contain **ALL THE MODS**? No, of course not.
 
-![type:video](https://youtube.com/embed/T8M5e7yrnoo)
+![type:video](https://youtube.com/embed/SeS02UVIS48)
+![type:video](https://youtube.com/embed/tcBA08dJUyM)
+![type:video](https://youtube.com/embed/_NIl7Q3UCF8)
 
 > All The Mods 10 | [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-10) | [GitHub](https://github.com/AllTheMods/ATM-10)

@@ -13,8 +13,8 @@ In **All the Mods 8** we will continue the tradition adding many new mods while 
 
 Does "**All the Mods**" really contain **ALL THE MODS**? No, of course not.
 
+![type:video](https://youtube.com/embed/tBPDE-yYPR8)
 ![type:video](https://youtube.com/embed/TuBvR6DeZs0)
 ![type:video](https://youtube.com/embed/LnMbb_Tzt-E)
-![type:video](https://youtube.com/embed/tBPDE-yYPR8)
 
 > All The Mods 8 | [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-8) | [GitHub](https://github.com/AllTheMods/ATM-8/)

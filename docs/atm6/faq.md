@@ -1,10 +1,10 @@
-# F.A.Q
+# FAQ
 
 ??? Question "How do I get started?"
     If your new to modded, allthemods, or minecraft in general, please take a look at our getting started guide.
 
 ??? Question "Is there a list of mods?"
-    Yes, on [CurseForge](README.md)
+    Yes, on [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-6/relations/dependencies)
 
 ??? Question "How to chunk load chunks?"
     Chunkloading is handled by FTB Chunks. Open your map where you claim chunks and once you have a chunk claimed, shift click that same chunk. It should show a red X through the chunk, showing that it is force loaded.

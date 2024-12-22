@@ -2,7 +2,8 @@
 title: Kaimonick's Guides
 description: A collection of Kaimonick's guides
 authors:
-   - Kaimonick
+   - Kaimonick (Author)
+   - ArcTrooper (Editor)
 ---
 
 # Kaimonick's Guides
