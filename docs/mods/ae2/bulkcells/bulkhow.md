@@ -2,7 +2,8 @@
 title: How To Use?
 description: Setup guidance for partitions and more
 authors: 
-    - Boold
+ - Boold (Original Author)
+ - ArcTrooper (Editor)
 ---
 
 # *How to do X, Y, Z???*

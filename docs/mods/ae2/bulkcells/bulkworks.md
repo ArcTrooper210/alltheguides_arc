@@ -2,7 +2,8 @@
 title: How Does Bulk Cell Works
 description: Quick explanation why compression/decompression works
 authors: 
-    - Boold
+ - Boold (Original Author)
+ - ArcTrooper (Editor)
 ---
 
 # *Why 1+1 = 2?*

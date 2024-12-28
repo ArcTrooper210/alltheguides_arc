@@ -25,6 +25,9 @@ authors:
 	??? Question "How do I increase claimed/force loaded chunks?"
 		- Add claimed chunks: `/ftbchunks admin extra_claim_chunks <player> <set/add> <amount>`
 		- Add force-loaded chunks: `/ftbchunks admin extra_force_load_chunks <player> <add/set> <amount>`
+		
+	??? Question "When I mine Allthemodium/Vibranium/Unobtainium it doesn't drop anything!"
+		It's caused by the `Miner's Fervor` enchantment, remove it and try breaking it again.
 
 ???+ Warning "Technical FAQs"
 	???+ Question "Why isn't '`insert name`' mod in ATM10 yet?"
