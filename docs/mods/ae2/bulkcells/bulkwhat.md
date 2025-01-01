@@ -20,19 +20,21 @@ Bulk Cells is an incredibly powerful cell. A single cell can only hold 1 type of
 
 ??? tip "Did you know that?"
     Assuming:
-    - You can theoretically produce a resource at a ``maxInt`` value per tick (2,147,483,647 of iron ingots per tick for example)
+
+    - You can theoretically produce a resource at a `maxInt` value per tick (2,147,483,647 iron ingots/tick for example)
     - And do it 24/7
 
-    It still requires **6 years, 10 months, and 7 days** to reach max capacity of `maxLong` (a 19 digit number). And ``BigInt`` can holds **more** than 268,000,000 digits (relative to your system memory of course)! This also means you **do not** need any kind of Overflow Prevention... (or does it?)
+    It still requires **6 years, 10 months, and 7 days** to reach max capacity of `maxLong` (a 19 digit number). And ``BigInt`` can holds **more** than 268,000,000 digits (relative to your system memory of course)! This also means you **do not** need any kind of Overflow Prevention...or does it?
 
 !!! abstract "But hey, there's more"
     On top of storing items, Bulk Cells also have the ability to **compress & decompress** items automatically!
 
 ### Compression & Decompression
-Having to make a pattern to craft `nuggets` from an `iron ingots`, and another pattern for crafting `iron block`, AND THEN another pattern to craft those back into iron ingots is **labor-intensive**, especially when you're playing a pack that **adds more than** just iron, gold, copper, & diamonds. Up until now, you might be familiar by using **Storage Drawers** to do this kind of thing. The Compacting Drawer to be exact.
+Having to make a pattern to craft `nuggets` from `iron ingots`, another pattern for crafting `iron block`, AND THEN another pattern to craft those back into iron ingots is **labor-intensive**, especially when you're playing a pack that **adds more than** just iron, gold, copper, & diamonds. Up until now, you might've been using **Storage Drawers** to do this kind of thing. The Compacting Drawer, to be exact.
 
 !!! danger "But using drawers comes with a small problem"
-    Compacting Drawers (and any other variants of physical-storage-compactor from other mods) never played nice with AE2. This is because when a storage controller (ones you used to read all the drawers content) reads a Storage Bus (External Storage application), **it reports the contents incorrectly**.
+    Compacting Drawers (and any other variants of physical-storage-compactor from other mods) never play nice with AE2. This is because a Storage Bus (External Storage application) **reports the drawer contents incorrectly**.
+    
     ??? example "Example of a misreport in AE2"
         ![](img-bulk/booldCompactingMisreport.png){.center}
         ![](img-bulk/booldCompactingExample.png){.center height='75px'}
@@ -45,9 +47,9 @@ Having to make a pattern to craft `nuggets` from an `iron ingots`, and another p
 
 ![](img-bulk/compressionCard.png){.center width='75px' height='75px'}
 
-A Compression Card is a **Card Upgrade** that you can install in a bulk cell **inside a Cell Workbench**. This thing allows the bulk cell to **auto-compress** its items.
+A Compression Card is a **Card Upgrade** that you can install in a bulk cell using a **Cell Workbench**. This thing allows the bulk cell to **auto-compress** its items.
 
-!!! danger "Not assigning a Compression Card = No Compression!"
+!!! danger "No Compression Card = No Auto Compression!"
 
 ??? example "Compression vs No Compression"
     ![](img-bulk/booldCompressComparison.png)
@@ -56,19 +58,19 @@ A Compression Card is a **Card Upgrade** that you can install in a bulk cell **i
 
 ![](img-bulk/decompressionModule.png){.center width='75px' height='75px'}
 
-Decompression Module is a **cable sub-part**, meaning it can only be attached into a **regular-sized ME cable** (won't connect into dense). Simultaneously with compression cards, this thing instead enables **the network** itself to be able to do any decompression. To install it, just place it anywhere in the network (like the **Wireless Access Point**).
+The decompression module is a device that works with compression cards to allow the network to automatically decompress items. To install it, just place it anywhere in the network (like the **Wireless Access Point**).
 
-!!! danger "Any decompression requires a **functional CPU Multiblock** !"
+!!! danger "Decompression requires a **functional CPU Multiblock**!"
 
 ## Storage Drawers vs Bulk Cells
 
 One might wonder,
-!!! quote "Huh. Bulk cells seems just like **Storage Drawers**. Both can **store a lot** & **compresses items**. Why would I use these cells instead of drawers?"
+!!! quote "Huh. Bulk cells seem just like **Storage Drawers**. Both can **store a lot** & **compress items**. Why would I use these cells instead of drawers?"
 
 Then let me present to you the ups & downs.
 
 !!! warning "Disclaimer"
-    This is not to say **one is worse** than another. Both has their own pros & cons. **DO NOT** weaponize this table to go ham on another user preferences.
+    This is not to say **one is worse** than another. Both have their own pros & cons. **DO NOT** weaponize this table to go ham on another users' preferences.
 
 | **Storage Drawers** ![](img-bulk/storageDrawer.png){.center width='32' height='32'} | **Bulk Cells** ![](img-bulk/decompressionModule.png){.center width='32' height='32'} |
 |:---:|:---:|
@@ -82,11 +84,12 @@ Then let me present to you the ups & downs.
 | Storage Bus readings (External Storage)  can affect performance when scaled up | Innate AE2 support (storage cell)  means more optimized when scaled up |
 
 ???+ success "Additional Notes"
-    ??? tip "Regarding Space-Efficient..."
+    ??? tip "Regarding Space Efficiency"
         ![](img-bulk/booldSizeComparison.png){.center}
-        This is the looks of storing 20 items in bulks. ME Drive from base AE2 holds 10 cell each, and ME Extended Drive from **ExtendedAE** mods can hold 20 cell each. Making it more compact with **1:20 ratio** of space to item types compared to drawers.
-    ??? tip "Regarding External Storage..."
-        External Storage is perfectly fine to do. Slight delay (performance affection) is bound to happen because it tries to read every slot in a **drawers network** that a storage bus able to read to. This is also mentioned by the **in-game guide**.
+        This is what it looks like to store 20 items in bulk. The base ME Drives holds 10 cells and the ME Extended Drive from **ExtendedAE** holds 20 cells.
+    
+    ??? tip "Regarding External Storage"
+        External Storage is perfectly fine to do. A slight delay will happen because the storage bus tries to read every slot in a **drawer network**. This is mentioned in the **in-game guide**.
 
 > MEGA Cells | [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/mega-cells)
 > Functional Storage | [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/functional-storage)
