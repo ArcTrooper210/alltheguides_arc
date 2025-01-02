@@ -14,6 +14,14 @@ nav:
 
 ---
 
+## **Setup Not Required!**
+
+You do not ***have*** to setup mkdocs for ATG! This guide is mainly for those that plan to make multiple contributions to ATG or want to preview the formatting for their guide.
+
+If you want to make a one time contribution or don't want to go through all the trouble of setting up mkdocs, you can always write up your guide in a text file and send it to @ArcTrooper or one of the mods on [Discord!](https://discord.com/invite/allthemods)
+
+---
+
 ## Guidelines
 
 ???+ Information "MUST READ"

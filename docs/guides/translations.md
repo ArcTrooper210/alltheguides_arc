@@ -10,6 +10,11 @@ authors:
 ???+ warning "FTB Quests 1.21+"
 	Translating lang files and previewing them all while in-game is now possible. I may or may not adjust this page to include that method, as it would a slight rewrite of this guide.
 
+???+ question "Don't know how to work GitHub?"
+	Follow [these steps](#another-optional-way) to download the quest language file and then you can start translating it. 
+	
+	After you're done ask a staff member in the [Discord](https://discord.com/invite/allthemods) and they can help you get your translations submitted and put into the main pack!
+
 ## Important!
 
 There is ***no*** set or forced timeline for translations. *Work on them at your own pace!* PR them however you want, either as whole chapters, sections of chapters, or even the whole thing if you want. **We are incredibly grateful for any contributions you make!**
@@ -48,7 +53,7 @@ The links should take you directly to the `Create a new fork` page.
 
 <!--- Add/deprecate items on this list as future modpacks release --->
 
-- [ATM10 (Alpha)](https://github.com/AllTheMods/ATM-10/fork)
+- [ATM10](https://github.com/AllTheMods/ATM-10/fork)
 - [ATM9/No Frills (NF's quests are the same as 9, just no Greg)](https://github.com/AllTheMods/ATM-9/fork)
 - [ATM9 to the Sky](https://github.com/AllTheMods/All-the-mods-9-Sky/fork)
 - [Gravitas 1](https://github.com/AllTheMods/tfc/fork)
@@ -255,7 +260,7 @@ Instead of copying the entire repo onto your computer, you can also download onl
 
 Download the `en_us.json` lang file from the respective pack, the links below are the most up-to-date files the translations are to be based off of.
 
-- [ATM10 (Alpha)](https://github.com/AllTheMods/ATM-10/blob/questtest/config/ftbquests/quests/lang/en_us.snbt)
+- [ATM10](https://github.com/AllTheMods/ATM-10/blob/main/config/ftbquests/quests/lang/en_us.snbt)
 - [ATM9/No Frills](https://github.com/AllTheMods/ATM-9/blob/main/kubejs/assets/kubejs/lang/en_us.json)
 - [ATM9 to the Sky](https://github.com/AllTheMods/All-the-mods-9-Sky/blob/dev/kubejs/assets/kubejs/lang/en_us.json)
 - [Gravitas 1](https://github.com/AllTheMods/tfc/blob/main/kubejs/assets/kubejs/lang/en_us.json)
@@ -362,20 +367,17 @@ Translators who have contributed translations to ATM packs/mods.
 
 | Language | Translators |
 | -------- | ----------- |
-| **:flag_ae: Arabic** | amro |
-| **:flag_nl: Dutch** | Riley |
-| **:flag_ph: Filipino (Philippines)** | CptZ |
-| **:flag_fr: French** | Luny, Galahad |
-| **:flag_de: German** | ffup , Torben, Riaru, Satherov (AE2 Supremacy) |
-| **:flag_it: Italian** | elfo |
-| **:flag_jp: Japanese** | ll1 (flll) |
-| **:flag_kr: Korean** | JJYong |
-| **:flag_no: Norwegian (Bokmål)** | Permest, A group of amish goat milkers |
-| **:flag_pl: Polish** | Observer, Miko_boi, lena |
-| **:flag_pt: Portugese** | oRuiva |
-| **:flag_ro: Romanian** | KGR |
-| **:flag_ru: Russian** | Slava_vas, Depozit, Gordry(Миша) |
-| **:flag_es: Spanish** | RadzRatz, TenCross, Arivio, Daboruu, Metabodiru |
-*Last updated 7/31/24*
+| **:flag_cn: Chinese**		| ZHAY10086, hbcraft, Amoerrt |
+| **:flag_nl: Dutch**		| Acetyld |
+| **:flag_de: German**		| Aquamatik, TheDyreBanana, Acetyld |
+| **:flag_it: Italian**		| Il-mostro-di-gioacchinopoli |
+| **:flag_jp: Japanese**	| flll, Abbage230 |
+| **:flag_kr: Korean**		| J-YonKen, sub-hub |
+| **:flag_no: Norwegian**	| Permest |
+| **:flag_pt: Portugese**	| oRuiva, Thomas, Alucard1313 |
+| **:flag_ru: Russian**		| SlavaVas |
+| **:flag_es: Spanish**		| RadzRatz, 102389 (TenCross), t3mpt0n |
+| **:flag_tr: Turkish**		| RuyaSavascisi |
+*Last updated 12/05/24*
 
 > All The Mods | [GitHub](https://github.com/AllTheMods) | [Discord](https://discord.com/invite/allthemods)

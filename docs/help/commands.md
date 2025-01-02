@@ -119,8 +119,10 @@ description: Known useful commands for most of ATM servers
         /ftbchunks admin unclaim_everything
         ```
 
+<!--- 
 ??? Info "FTBTeams/Party"
     ## FTBTeams/Party
+--->
 
 ??? Info "FTBQuests"
     === "Admin Commands"

@@ -11,6 +11,12 @@ authors:
 ---
 
 ???+ Abstract "Gameplay FAQs"
+	??? Question "What's the little 3D cube next to my crosshair?"
+		It's from Quark, the default keybind to toggle it is ++k++.
+		
+	??? Question "There are yellow numbers on all my inventory slots!"
+		It's from Super Factory Manager, the default keybind to toggle it is ++ctrl+i++.
+	
 	??? Question "There's a ghost/easter egg that appears every few minutes!"
 		The ghost is from Corail Tombstone, you can disable by doing `/tbgui` locate the ghost toggle under effect. This toggle will only show if your GUI scale is set to 4.
 
@@ -31,12 +37,9 @@ authors:
 		- Drop an anvil onto **Obsidian** with the enchanted book/weapon along with **Books** for each separate enchantment (EX: You have a book with 3 different enchants, you'd need 3 books to split those enchants). 
 		- Enchant the anvil with **Splitting** (Only splits books/weapons with 1 enchant) or **Obliteration** (Splits any number of enchants)
 		- Use the **Enchantment Extractor** from Industrial Foregoing. Provide it with **Books** and **Power**, and it will extract each enchantment on all enchanted items/books to singular books. It can also be configured to push extracted enchantments into the **Enchantment Library** from Apotheosis.
-
-	??? Question "What's the little 3D cube next to my crosshair?"
-		It's from Quark, the default keybind to toggle it is ++k++.
 		
-	??? Question "There are yellow numbers on all my inventory slots!"
-		It's from Super Factory Manager, the default keybind to toggle it is ++ctrl+i++.
+	??? Question "When I mine Allthemodium/Vibranium/Unobtainium it doesn't drop anything!"
+		It's caused by the `Miner's Fervor` enchantment, remove it and try breaking it again.
 
 	??? Question "How do I find '`insert name`' biome?"
 		**Nature's Compass** is a really nice tool to find any and all biomes in the modpack. Craft it, right click with it in your hand, and you can run the search for any biome you are looking for (such as the Deep Dark).
@@ -55,6 +58,26 @@ authors:
 		- Add force-loaded chunks: `/ftbchunks admin extra_force_load_chunks <player> <add/set> <amount>`
 
 ???+ Warning "Technical FAQs"
+	??? Question "My screen is shaking like im getting hurt and I can't do anything!"
+		
+		Backup your world, then download [NBT Explorer](https://github.com/jaquadro/NBTExplorer) from GitHub.
+		
+		!!! warning "Make sure you shutdown your world/server before attempting this!"
+	
+		=== "Singleplayer"
+			1. Go to `AlltheMods9ATM9\saves\theNameOfYourWorld` and open `level.dat` with NBT Explorer.
+			2. Go to `Date -> Player` and set `AbsorptionAmount` to `1`.
+			3. Scroll down and set `Health` to `1`.
+			4. Save the file and start your world
+
+		=== "Multiplayer"
+			1. Go to `world/playerdata` and find the affected player's UUID `playerUUID.dat` file and open it with NBT Explorer.
+			2. Go to `Date -> Player` and set `AbsorptionAmount` to `1`.
+			3. Scroll down and set `Health` to `1`.
+			4. Save the file and start your server.
+		
+		![type:video](img/faqNAHealthvid.mp4)
+
 	??? Question "I have my chunks force loaded, but they don't run when I'm logged off."
 		??? Info "In-game (Requires OP)"
 			1. Press ++m++ to open the map.
@@ -71,7 +94,7 @@ authors:
 	??? Question "What's the difference between ATM9 and ATM9: No Frills?"
 		[Here is a comparison](https://www.modpackindex.com/modpacks/compare?modpacks=64056,74905)
 		
-	??? Question "Why isn't '`insert name`' mod in ATM9 yet?"
+	??? Question "Why isn't '`insert mod name`' in ATM9?"
 		ATM packs does not literally contain "All The Mods". Our main focus is having mods that's not: 1) buggy, 2) ruins performance or progression. If a mod supports Minecraft version **1.20.1**, and **Forge** (Not NeoForge), you may make a [suggestion](https://github.com/AllTheMods/ATM-9/issues/1).
 	
 	??? Question "I found a bug/dupe in the pack. How can I report it?"

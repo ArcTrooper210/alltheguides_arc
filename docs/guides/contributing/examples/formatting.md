@@ -287,7 +287,7 @@ This comment will also not be rendered in the final HTML file.
 This comment will be visible in "View Source". 
 --->
 
-However, the two exmaples above will show in "View Source" if a user does so. To prevent that there is another way to add comments.
+However, the two examples above will show in "View Source" if a user does so. To prevent that there is another way to add comments.
 
 `[//]: # (This type of comment will not show in either the final HTML or in "View Source")`
 

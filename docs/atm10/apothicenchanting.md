@@ -7,17 +7,19 @@ authors:
 
 # Apothic Enchanting
 
-???+ danger "OUTDATED"
-	Due to an update at some point to Apothic Enchanting, all setups in this guide will not yield the intended values. Even the in-game questline has some incorrect setups. This guide will be updated with new setups later.
+???+ success "Updated 12/31/24"
+	Max enchanting progression was redone to reuse shelves that are crafted and to minimize the grind, specifically Heart-Forged Seashelves which require Heart of the Sea. This guide differs from the questline due to it not needing any of the Hellshelves.
+
+	> If you find any typos/errors, ping @ArcTrooper on the [Discord!](https://discord.com/invite/allthemods)
 
 ## Max Enchanting Setup
 
 ??? information "Max Enchanting Shelves List"
-	- [ ] 5x Soul-Touched Sculkshelf
-	- [ ] 5x Soul-Touched Deepshelf
-	- [ ] 3x Heart-Forged Seashelf
-	- [ ] 1x Draconic Endshelf
-	- [ ] 1x Geode-Encased Bookcase of Stability
+	- [ ] 5x **Echoing Sculkshelf**
+	- [ ] 5x **Soul-Touched Sculkshelf**
+	- [ ] 1x **Deepshelf of Arcane Treasures**
+	- [ ] 1x **Draconic Endshelf**
+	- [ ] 1x **Geode-Encased Bookcase of Stability**
 
 Craft 16x **Seashelf** and place all but one in the usual enchanting configuration.  
 
@@ -29,19 +31,21 @@ Now take your last Seashelf and **infuse it**. You should see an infusion option
 
 ---
 
-After all of shelves are infused, you'll need to break 12x Infused Seashelf and craft 3x **Heart-Forged Seashelf** and 9x **Crystalline Seashelf**. After you're done crafting them, place them down.
+After all of shelves are infused, you'll need to break 13x Infused Seashelf and craft 13x **Crystalline Seashelf**. After you're done crafting them, place them down.
 
 Now craft 10x **Dormant Deepshelf** and infuse them into their **Deepshelf** varient.
 
 !!! info "You must be level 60+ to infuse Dormant Deepshelves"
 
+After infusing all 10 dormant deepshelves, use them to craft 5x **Soul-Touched Sculkshelf** and 5x **Echoing Sculkshelf**.
+
+!!! tip "Remember to use JEI to see the recipes. You'll need to kill a few Wardens"
+
 ---
 
-After infusing all 10 dormant deepshelves, use them to craft 5x **Soul-Touched Deepshelf** and 5x **Echoing Deepshelf**. Then upgrade them to their **Sculkshelf** variant. *Remember to use EMI to see the recipes.* 
+Now you'll need to craft 1x **Geode-Encased Bookcase of Stability**.
 
-Now you need to craft 1x **Geode-Encased Bookcase of Stability**. 
-
-You can infuse a **Block of Amethyst** to get **Budding Amethyst**. Place 3x **Heart-Forged Seashelf** and 2x **Soul-Touched Deepshelf** to infuse it.
+You can infuse a **Block of Amethyst** to get **Budding Amethyst**. Place 10x **Crystalline Seashelf** and 5x **Normal Bookshelves** to infuse it.
 
 !!! info "You must be level 65+ to infuse Block of Amethyst"
 
@@ -49,36 +53,33 @@ You can infuse a **Block of Amethyst** to get **Budding Amethyst**. Place 3x **H
 
 ---
 
-Now craft 1x **Draconic Endshelf**. To make **Infused Dragon's Breath**, place down 
+To craft 1x **Draconic Endshelf** we need **Infused Dragon's Breath**.
 
 !!! abstract ""
+	- 5x **Echoing Sculkshelf** 
 	- 2x **Soul-Touched Sculkshelf**
-	- 3x **Heart-Forged Seashelf**
-	- 8x **Normal Bookshelf**
+	- 5x **Melonshelf**
+	- 5x **Normal Bookshelf**
 	- 1x **Geode-Encased Bookcase of Stability**
 
 !!! info "You must be level 80+ to infuse Dragon's Breath"
 
+![](img/apoth10_dragbreath.png){.center}
+
 ---
 
-After making the **Draconic Endshelf**, place your crafted shelves for max enchants!
+After making the **Draconic Endshelf**, craft 1x **Deepshelf of Arcane Treasures** and then place your crafted shelves for max enchants!
 
 !!! example ""
+	- 5x **Echoing Sculkshelf**
 	- 5x **Soul-Touched Sculkshelf**
-	- 5x **Soul-Touched Deepshelf**
-	- 3x **Heart-Forged Seashelf**
+	- 1x **Deepshelf of Arcane Treasures**
 	- 1x **Draconic Endshelf**
 	- 1x **Geode-Encased Bookcase of Stability**
 
+!!! tip "You can place a **Seashelf of Aquatic Filtration** to filter out enchants you don't want."
+
 ![](img/apoth10_finalsetup.png){.center}
-
----
-
-### Treasure Enchants
-
-To get treasure enchants place 1x **Deepshelf of Arcane Treasures** and 4x **Candles**.
-	
-You can use **Seashelf of Aquatic Filtration** to filter out enchants you don't want such as curses.
 
 ---
 
@@ -86,32 +87,51 @@ You can use **Seashelf of Aquatic Filtration** to filter out enchants you don't 
 
 You do not have to place the blocks exactly as I do, these are just an example.
 
+### Unbreakable Potion Charms
+
+!!! info "5x Draconic Endshelf, 2x Echoing Deepshelf, 1x Melonshelf, 1x Endshelf"
+
+![](img/apoth10_unbreakcharm.png){.center}
+
 ### Tome of Superior Scrapping
 
-Same setup as [Tome of Extraction](#tome-of-extraction)
+!!! info "3x Soul-Touched Sculkshelf, 1x Draconic Endshelf"
 
-!!! info "3x Echoing Deepshelf, 1x Soul-Touched Deepshelf, 1x Endshelf, 1x Draconic Endshelf"
-
-![](img/apoth10_scrapping_extraction.png){.center}
+![](img/apoth10_supscrapping.png){.center}
 
 ### Tome of Extraction
 
-Same setup as [Tome of Superior Scrapping](#tome-of-superior-scrapping)
+!!! info "4x Soul-Touched Sculkshelf, 1x Draconic Endshelf"
 
-!!! info "3x Echoing Deepshelf, 1x Soul-Touched Deepshelf, 1x Endshelf, 1x Draconic Endshelf"
-
-![](img/apoth10_scrapping_extraction.png){.center}
+![](img/apoth10_extraction.png){.center}
 
 ### Library of Alexandria
 
-!!! info "7x Echoing Deepshelf, 3x Draconic Endshelf, 2x Soul-Touched Deepshelf"
+!!! info "6x Soul-Touched Sculkshelf, 3x Melonshelf, 2x Draconic Endshelf, 2 Infused Seashelf"
 
 ![](img/apoth10_library.png){.center}
 
 ### Trident
 
-!!! info "5x Echoing Deepshelf, 2x Soul-Touched Deepshelf"
+!!! info "4x Echoing Sculkshelf, 1x Melonshelf, 1x Normal Bookshelf"
 
 ![](img/apoth10_trident.png){.center}
+
+### Bottle o' Enchanting
+
+=== "1 Bottle"
+	!!! info "2x Echoing Sculkshelf"
+
+	![](img/apoth10_xpbottle1.png){.center}
+
+=== "8 Bottles"
+	!!! info "5x Echoing Sculkshelf, 1x Soul-Touched Sculkshelf"
+
+	![](img/apoth10_xpbottle8.png){.center}
+
+=== "32 Bottles"
+	!!! info "5x Echoing Sculkshelf, 3x Soul-Touched Sculkshelf, 1x Draconic Endshelf"
+
+	![](img/apoth10_xpbottle32.png){.center}
 
 > Apothic Enchanting | [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/apothic-enchanting)

@@ -10,7 +10,7 @@ To the new **All The Guides**, by **All The Mods** (_ATM_).
 This guide is currently a work in progress, so there will be missing/placeholder information. Want to contribute? Check [About All The Guides Contributing](guides/contributing/README.md)
 
 ???+ Tip "All The Guides is only for our packs"
-    ATM has custom changes and additions, mostly recipes. This means it's only for ATM packs, and may not be the same for other packs. However, guides in the [Additional Guides](guides/README.md) should work for any pack with said mod.
+    ATM has custom changes and additions, mostly recipes. This means it's only for ATM packs, and may not be the same for other packs. However, guides in the [Additional Guides](mods/README.md) should work for any pack with said mod.
 
 ## Intro
 

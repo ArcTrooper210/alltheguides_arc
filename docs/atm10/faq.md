@@ -25,13 +25,36 @@ authors:
 	??? Question "How do I increase claimed/force loaded chunks?"
 		- Add claimed chunks: `/ftbchunks admin extra_claim_chunks <player> <set/add> <amount>`
 		- Add force-loaded chunks: `/ftbchunks admin extra_force_load_chunks <player> <add/set> <amount>`
+		
+	??? Question "When I mine Allthemodium/Vibranium/Unobtainium it doesn't drop anything!"
+		It's caused by the `Miner's Fervor` enchantment, remove it and try breaking it again.
 
 ???+ Warning "Technical FAQs"
-	???+ Question "Why isn't '`insert name`' mod in ATM10 yet?"
+	???+ Question "Why isn't '`insert mod name`' in ATM10 yet?"
 		ATM packs does not literally contain "All The Mods". Our main focus is having mods that's not: 1) buggy, 2) ruins performance or progression and 3) is updated to 1.21. If a mod supports Minecraft version **1.21**, and **Neo Forge**, you may make a [suggestion](https://github.com/AllTheMods/ATM-10/issues/2).
 	
 	???+ Question "I found a bug/dupe in the pack. How can I report it?"
 		To report bugs, dupes or similar, head over to the [ATM10 GitHub](https://github.com/AllTheMods/ATM-10/issues) and open a new issue describing the occurrence.
+
+	??? Question "My screen is shaking like im getting hurt and I can't do anything!"
+		
+		Backup your world, then download [NBT Explorer](https://github.com/jaquadro/NBTExplorer) from GitHub.
+		
+		!!! warning "Make sure you shutdown your world/server before attempting this!"
+	
+		=== "Singleplayer"
+			1. Go to `AlltheMods9ATM9\saves\theNameOfYourWorld` and open `level.dat` with NBT Explorer.
+			2. Go to `Date -> Player` and set `AbsorptionAmount` to `1`.
+			3. Scroll down and set `Health` to `1`.
+			4. Save the file and start your world
+
+		=== "Multiplayer"
+			1. Go to `world/playerdata` and find the affected player's UUID `playerUUID.dat` file and open it with NBT Explorer.
+			2. Go to `Date -> Player` and set `AbsorptionAmount` to `1`.
+			3. Scroll down and set `Health` to `1`.
+			4. Save the file and start your server.
+		
+		![type:video](../atm9/img/faqNAHealthvid.mp4)
 
 	??? Question "What are the recommended Java arguments for this pack?"
 		- **Client arguments**: send `?args21` in the **#bot-spam** channel in our [Discord](https://discord.com/invite/allthemods).
