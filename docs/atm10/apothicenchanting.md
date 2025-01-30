@@ -107,7 +107,7 @@ You do not have to place the blocks exactly as I do, these are just an example.
 
 ### Library of Alexandria
 
-!!! info "6x Soul-Touched Sculkshelf, 3x Melonshelf, 2x Draconic Endshelf, 2 Infused Seashelf"
+!!! info "6x Echoing Sculkshelf, 3x Melonshelf, 2x Draconic Endshelf, 2 Infused Seashelf"
 
 ![](img/apoth10_library.png){.center}
 
