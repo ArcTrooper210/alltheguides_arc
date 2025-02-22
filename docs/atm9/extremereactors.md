@@ -61,7 +61,7 @@ You can use **Computer Craft** with scripts such as [Kasra-G's Automated Reactor
 
 ??? Note "You must enable HTTP API for Computer Craft Integration"
     To pull the script above as outlined in the repo's instructions, you must edit the following file:<br>
-    `/YOURWORLDNAME/defaultconfigs/computercraft-server.toml`
+    `/yourWorldName/serverconfigs/computercraft-server.toml`
 
     Search for `http` and make sure it is set to `enabled = true` as shown below.
     ``` toml title="computercraft-server.toml"
@@ -72,7 +72,7 @@ You can use **Computer Craft** with scripts such as [Kasra-G's Automated Reactor
             enabled = true
     ```
 
-    Your server *must* be **off** when changing this file. If you edit it while it is running, the changes will not apply.
+    !!! warning "Your server *must* be **OFF** when changing this file. Otherwise the changes will not apply."
 
 ![](img/extreme_reactors_cc_kasrag.jpg)
 
