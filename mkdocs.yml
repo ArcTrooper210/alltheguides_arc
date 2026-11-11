@@ -82,12 +82,17 @@ plugins:
       video_autoplay: false
       video_loop: false
   - markmap
-  - git-revision-date-localized:
-      type: timeago
-      enable_creation_date: true
-      fallback_to_build_date: false
-      strict: !ENV [ ENABLE_STRICT_GIT_REVISION_DATE, false ]
-      enabled: !ENV [ ENABLE_GIT_REVISION_DATE, false ]
+  # - git-revision-date-localized:
+  #     type: timeago
+  #     enable_creation_date: true
+  #     fallback_to_build_date: false
+  #     strict: !ENV [ ENABLE_STRICT_GIT_REVISION_DATE, false ]
+  #     enabled: !ENV [ ENABLE_GIT_REVISION_DATE, false ]
+  - document-dates:
+      position: bottom    # Display position: top(after title) bottom(end of document), default: top
+      type: timeago       # Date type: date datetime timeago, default: date
+      exclude:            # List of excluded files (support unix shell-style wildcards)
+        - 'site'          # Example: exclude all index.md files in any subfolders
   - minify:
       minify_html: !ENV [ ENABLE_MINIFY, false ]
       minify_js: !ENV [ ENABLE_MINIFY, false ]
@@ -105,13 +110,13 @@ plugins:
       draggable: false
       auto_caption: true
       caption_position: bottom
-  - git-authors:
-      show_email_address: false
-      sort_authors_by: contribution
-      fallback_to_empty: true
-      show_contribution: true
-      strict: !ENV [ ENABLE_STRICT_GIT_AUTHORS, false ]
-      enabled: !ENV [ ENABLE_GIT_AUTHORS, false ]
+  # - git-authors:
+  #     show_email_address: false
+  #     sort_authors_by: contribution
+  #     fallback_to_empty: true
+  #     show_contribution: true
+  #     strict: !ENV [ ENABLE_STRICT_GIT_AUTHORS, false ]
+  #     enabled: !ENV [ ENABLE_GIT_AUTHORS, false ]
 hooks:
   - extensions/external_links_md_extension.py
 markdown_extensions:
