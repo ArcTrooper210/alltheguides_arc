@@ -89,10 +89,10 @@ plugins:
   #     strict: !ENV [ ENABLE_STRICT_GIT_REVISION_DATE, false ]
   #     enabled: !ENV [ ENABLE_GIT_REVISION_DATE, false ]
   - document-dates:
-      position: bottom    # Display position: top(after title) bottom(end of document), default: top
-      type: timeago       # Date type: date datetime timeago, default: date
-      exclude:            # List of excluded files (support unix shell-style wildcards)
-        - 'site'          # Example: exclude all index.md files in any subfolders
+      position: bottom
+      type: timeago
+      exclude:
+        - 'site'
   - minify:
       minify_html: !ENV [ ENABLE_MINIFY, false ]
       minify_js: !ENV [ ENABLE_MINIFY, false ]

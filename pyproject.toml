@@ -8,9 +8,8 @@ dependencies = [
     "mkdocs",
     "mkdocs-autorefs",
     "mkdocs-awesome-pages-plugin",
-    #"mkdocs-git-authors-plugin",
+    "mkdocs-document-dates>=3.8.9",
     "mkdocs-git-committers-plugin",
-    #"mkdocs-git-revision-date-localized-plugin",
     "mkdocs-glightbox",
     "mkdocs-markmap",
     "mkdocs-material",
@@ -19,5 +18,4 @@ dependencies = [
     "mkdocs-open-in-new-tab",
     "mkdocs-video",
     "mkdocstrings",
-    "document-dates",
 ]
