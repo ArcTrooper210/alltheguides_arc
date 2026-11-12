@@ -1,5 +1,5 @@
 ---
-title: All The Mods 3 Expert
+title: All The Mods 3 - Expert
 description: ATM3 Expert Intro Description
 ---
 

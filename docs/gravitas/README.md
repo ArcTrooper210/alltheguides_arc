@@ -1,6 +1,6 @@
 ---
 title: All The Mods - Gravitas
-description: Gravitas
+description: Gravitas Intro Description
 ---
 
 # All The Mods - Gravitas

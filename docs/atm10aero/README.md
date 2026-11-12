@@ -1,25 +1,22 @@
 ---
-title: All The Mods 11
+title: All The Mods 10 - Aeronautics
 description: ATM11 Intro Description
 ---  
 
-# All The Mods 11
+# All The Mods 10 - Aeronautics
 
-[![](img/atm11Logo.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-11)
+<!--- [![](img/atm10aeroLogo.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-10-aeronautics) --->
 
-???+ Danger "Indev"
-	ATM10 is still ***in development***, meaning there will be bugs, missing mods, missing quests, etc. It will be getting frequent updates as mod devs update to 1.21, and the ATM dev team continues to work on adding new mods, quests, and scripts. [You can report bugs and make suggestions here.](https://github.com/AllTheMods/ATM-10/issues/)
+**All the Mods 10: Aeronautics** aims to redefine what you expect from an allthemods pack. We know create isn't everyones cup of tea, so we made sure this isnt another pack where aeronautics feels dropped in.
+You can play this pack without touching aero and still have a fun time experiencing the new custom items, pipes, balance changes and power overhauls to give the game a more unified experience across mods!
 
-**All The Mods** started out as a private pack for just a few friends that turned into something others wanted to play! It has all the basics that most other "big name" packs include but with a nice mix of some of newer or lesser-known mods as well. 
+**Notable Changes:**
+Whilst some mods have been removed, **Neo Vitae** and **Excessive Utilities** make their debut in an allthemods pack, being continuations of core favourite mods from the past, blood magic and extra utilities (a blend of 1 and 2)
 
-The biggest changes this time around are that we are now using **NeoForge** and we are on the version **1.21**. Expect many updates as mods come out!
-
-In **All the Mods 10** we will continue the tradition adding many new mods while going for more stability.
+Featuring overhauled worldgen! We know Aeronautics involves a lot of travelling, so we took a look over which mods gave the most performance, and content when it comes to world gen. ATM10 Aero is using the 6.0 branch of **Regions Unexplored**!
 
 Does "**All the Mods**" really contain **ALL THE MODS**? No, of course not.
 
-![type:video](https://youtube.com/embed/SeS02UVIS48)
-![type:video](https://youtube.com/embed/tcBA08dJUyM)
-![type:video](https://youtube.com/embed/_NIl7Q3UCF8)
+![type:video](https://youtube.com/embed/VUjwKcoNaFA)
 
-> All The Mods 10 | [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-10) | [GitHub](https://github.com/AllTheMods/ATM-10)
+> All The Mods 10 - Aeronautics | [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-10-aeronautics) | [GitHub](https://github.com/AllTheMods/ATM10-Aeronautics)

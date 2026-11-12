@@ -1,25 +1,36 @@
 ---
-title: All The Mods 11
-description: ATM11 Intro Description
+title: All The Mons
+description: ATMons Intro Description
 ---  
 
-# All The Mods 11
+# All The Mons
 
-[![](img/atm11Logo.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-11)
+<!--- [![](img/atm11Logo.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/all-the-mons) --->
 
-???+ Danger "Indev"
-	ATM10 is still ***in development***, meaning there will be bugs, missing mods, missing quests, etc. It will be getting frequent updates as mod devs update to 1.21, and the ATM dev team continues to work on adding new mods, quests, and scripts. [You can report bugs and make suggestions here.](https://github.com/AllTheMods/ATM-10/issues/)
+**All the Mons** is **All the Mods 10** that fully integrates **Cobblemon**! It blends over 400 mods you know and love with a complete Pokémon experience.
 
-**All The Mods** started out as a private pack for just a few friends that turned into something others wanted to play! It has all the basics that most other "big name" packs include but with a nice mix of some of newer or lesser-known mods as well. 
+[![](img/atmons_core_features.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/all-the-mons)
 
-The biggest changes this time around are that we are now using **NeoForge** and we are on the version **1.21**. Expect many updates as mods come out!
+**Cobblemon + ATM10:**
+The classic ATM10 progression, now featuring high-quality Pokémon quests and mechanics.
+**Custom Content:**
+Discover custom trainer battles and unique world structures designed specifically for this pack.
+**Active Development:**
+Regular updates adding new quests, trainers, and specialized spawns. 
 
-In **All the Mods 10** we will continue the tradition adding many new mods while going for more stability.
+[![](img/atmons_crafting_progression.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/all-the-mons)
 
-Does "**All the Mods**" really contain **ALL THE MODS**? No, of course not.
+**Custom Pokéball Recipes:**
+Revamped crafting paths that require modded materials. Automate your production lines to mass-produce high-tier balls.
+**The ATM Star:**
+The ultimate endgame goal. Crafting the Star requires mastery of both complex tech/magic mods and rare Pokémon-related resources.
 
-![type:video](https://youtube.com/embed/SeS02UVIS48)
-![type:video](https://youtube.com/embed/tcBA08dJUyM)
-![type:video](https://youtube.com/embed/_NIl7Q3UCF8)
+In **All the Mons** we will continue the tradition adding many new mods while going for more stability.
 
-> All The Mods 10 | [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-10) | [GitHub](https://github.com/AllTheMods/ATM-10)
+Does "**All the Mons**" really contain **ALL THE MONS**? No, of course not.
+
+![type:video](https://youtube.com/embed/81cdCtF5TXY)
+![type:video](https://youtube.com/embed/orAUFev4cdY)
+![type:video](https://youtube.com/embed/PZD6Wsi-GA4)
+
+> All The Mons | [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/all-the-mons) | [GitHub](https://github.com/AllTheMods/All-the-Mons)

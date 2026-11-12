@@ -1,25 +1,32 @@
 ---
-title: All The Mods 11
-description: ATM11 Intro Description
+title: All The Mods 9 - Expert
+description: ATM9e Intro Description
 ---  
 
-# All The Mods 11
+# All The Mods 9 - Expert
 
-[![](img/atm11Logo.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-11)
+[![](img/atm9eLogo.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-9-expert)
 
 ???+ Danger "Indev"
-	ATM10 is still ***in development***, meaning there will be bugs, missing mods, missing quests, etc. It will be getting frequent updates as mod devs update to 1.21, and the ATM dev team continues to work on adding new mods, quests, and scripts. [You can report bugs and make suggestions here.](https://github.com/AllTheMods/ATM-10/issues/)
+	ATM9e is still ***in development***, meaning there will be bugs, missing mods, missing quests, etc. It will be getting frequent updates, and the ATM dev team continues to work on adding new mods, quests, and scripts. [You can report bugs and make suggestions here.](https://github.com/AllTheMods/ATM9-expert/issues/)
 
-**All The Mods** started out as a private pack for just a few friends that turned into something others wanted to play! It has all the basics that most other "big name" packs include but with a nice mix of some of newer or lesser-known mods as well. 
+**All the Mods 9: Expert** is a rebuilt, GregTech-driven take on **ATM9**. Forget the usual ATM approach of progressing through each mod on its own. Here, you actually have to use all the mods to advance. 
 
-The biggest changes this time around are that we are now using **NeoForge** and we are on the version **1.21**. Expect many updates as mods come out!
+**What actually changed:**
+* Pretty much every recipe has been reworked or replaced. 
+* **Everything has been Gregified**: Magic, Tech and Exploration all run through GregTech.
+* Want to make a Mystical Agriculture seed? **Too bad**, time to build a Seed Fabricator.
+* Need hafnium for Mekanism? It's on **the Moon**. Getting there means building a rocket, which has its own processing chain.
+* Magic mods no longer standalone. Their machines, rituals, and materials plug into GregTech multiblocks and processing lines. 
 
-In **All the Mods 10** we will continue the tradition adding many new mods while going for more stability.
+ 
+**Leaner, more focused mod list**
+Mods that weren't pulling their weight have been cut, and new ones have been added, including Forestry, Gendustry, Elemental Craft and ProjectE, among many more. 
 
 Does "**All the Mods**" really contain **ALL THE MODS**? No, of course not.
 
-![type:video](https://youtube.com/embed/SeS02UVIS48)
-![type:video](https://youtube.com/embed/tcBA08dJUyM)
-![type:video](https://youtube.com/embed/_NIl7Q3UCF8)
+<!---
+![type:video](https://youtube.com/embed/)
+--->
 
-> All The Mods 10 | [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-10) | [GitHub](https://github.com/AllTheMods/ATM-10)
+> All The Mods 9: Expert | [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-9-expert) | [GitHub](https://github.com/AllTheMods/atm9-expert)

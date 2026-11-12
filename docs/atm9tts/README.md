@@ -3,7 +3,7 @@ title: All The Mods 9 - To The Sky
 description: ATM9-TTS Intro Description
 ---  
 
-# All The Mods 9
+# All The Mods 9 - To The Sky
 
 [![](img/atm9TTSLogo.png){.center}](https://legacy.curseforge.com/minecraft/modpacks/all-the-mods-9-to-the-sky)
 

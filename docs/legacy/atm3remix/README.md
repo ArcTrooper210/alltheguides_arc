@@ -1,5 +1,5 @@
 ---
-title: All The Mods 3 Remix
+title: All The Mods 3 - Remix
 description: ATM3R Intro Description
 ---
 
