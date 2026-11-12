@@ -16,7 +16,7 @@ What does **All Rights Reserved** Mean?
 ```
 All Rights Reserved
 
-Copyright (c) 2023-2024 All The Mods (AllTheMods / ATM)
+Copyright (c) 2023-2026 All The Mods (AllTheMods / ATM)
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
